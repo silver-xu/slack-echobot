@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "export NODE_TLS_REJECT_UNAUTHORIZED='0' && yarn build && node dist/index",
+    "start:watch": "nodemon",
     "build": "tsc",
     "lint": "eslint src/**/*.ts",
     "format": "eslint src/**/*.ts --fix",
@@ -21,6 +22,7 @@
     "eslint": "^6.8.0",
     "husky": "^4.0.6",
     "jest": "^24.9.0",
+    "nodemon": "^2.0.2",
     "ts-jest": "^24.3.0",
     "typescript": "^3.7.4"
   },
