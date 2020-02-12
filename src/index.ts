@@ -11,13 +11,13 @@ const app = new App({
 });
 
 // Listens to incoming messages that contain "hello"
-app.command('/sell', ({ command, ack, say }) => {
+app.command('/sell', ({ ack, say }) => {
   ack();
   // say() sends a message to the channel where the event was triggered
   say(`Hey there`);
 });
 
-(async () => {
+(async (): Promise<void> => {
   // Start your app
   await app.start(process.env.PORT || 80);
 
