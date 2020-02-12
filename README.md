@@ -1,4 +1,4 @@
-# Node.js Typescript Boilerplate [![Build Status](https://travis-ci.org/silver-xu/ts-boilerplate.svg?branch=master)](https://travis-ci.org/silver-xu/ts-boilerplate) [![codecov](https://codecov.io/gh/silver-xu/ts-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/silver-xu/ts-boilerplate) [![greenkeeper](https://badges.greenkeeper.io/silver-xu/ts-boilerplate.svg?style=flat)](https://badges.greenkeeper.io/silver-xu/ts-boilerplate.svg?style=flat)
+# Node.js Typescript Boilerplate [![Build Status](https://travis-ci.org/silver-xu/slack-garagesale.svg?branch=master)](https://travis-ci.org/silver-xu/slack-garagesale) [![codecov](https://codecov.io/gh/silver-xu/slack-garagesale/branch/master/graph/badge.svg)](https://codecov.io/gh/silver-xu/slack-garagesale) [![greenkeeper](https://badges.greenkeeper.io/silver-xu/slack-garagesale.svg?style=flat)](https://badges.greenkeeper.io/silver-xu/slack-garagesale.svg?style=flat)
 
 > Typescript boilerplate powered by ESlint, Prettier and Husky.
 
